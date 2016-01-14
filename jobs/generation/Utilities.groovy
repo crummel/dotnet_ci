@@ -239,7 +239,7 @@ class Utilities {
                     }
                   
                     onlyTriggerPhrase(triggerOnPhraseOnly)
-                    regexTriggerPhrase(triggerPhraseString)
+                    // regexTriggerPhrase(triggerPhraseString)
                 }
             }
         }
