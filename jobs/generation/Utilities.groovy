@@ -326,6 +326,8 @@ class Utilities {
         job.with {
             scm {
                 git {
+                    wipeOutWorkspace()
+
                     remote {
                         github(project)
                     }
